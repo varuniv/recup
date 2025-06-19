@@ -1,1 +1,1 @@
-<a href="modifier_user.php?id=<?php echo $u['idUser']; ?>" class="btn btnROSA" <?php if($u['nomRole']=="Admin" && $u['idUser'] != $SelfId ){echo "style='pointer-events: none; opacity: 0.5;'"; } ?>>Modifier</a>
+
